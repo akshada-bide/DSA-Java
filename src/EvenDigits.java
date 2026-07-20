@@ -13,6 +13,7 @@ public class EvenDigits {
         }
         return count;
     }
+    
     //function to check whether a no contains even digits or not
     static boolean even(int num){
         int NumberOfDigits = digits(num);
