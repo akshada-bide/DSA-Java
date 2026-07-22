@@ -9,6 +9,7 @@ public class booleanEx {
         if(arr.length == 0){
             return false;
         }
+        
         for(int element:arr){
             if(element == target){
                 return true;
