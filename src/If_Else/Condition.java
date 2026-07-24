@@ -8,7 +8,6 @@ public class Condition {
         };
         System.out.println(satisfiesConditions(grid));
     }
-
     static boolean satisfiesConditions(int[][] grid) {
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid.length - 1; j++) {
