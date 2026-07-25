@@ -16,7 +16,6 @@ public class FindMinMax {
         }
         return ans;
     }
-    
     static int max(int[] arr){
         int ans =arr[0];
         for(int i=1; i<arr.length;i++){
