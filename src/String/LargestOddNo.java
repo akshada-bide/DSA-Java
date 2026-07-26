@@ -4,7 +4,6 @@ public class LargestOddNo {
     public static void main(String[] args) {
         String s = "5347";
         System.out.println(largeOddNum(s));
-
     }
 
     //LeetCode 1903 :Largest Odd Number in String
