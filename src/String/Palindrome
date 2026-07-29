@@ -6,6 +6,7 @@ public class Palindrome {
        String s = "babba";
        System.out.println(smallestPalindrome(s));
     }
+
     static String smallestPalindrome(String s){
         int[] freq = new int[26];
         StringBuilder left = new StringBuilder();
