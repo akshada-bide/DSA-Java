@@ -1,6 +1,6 @@
 package String;
 
-public class LeetCode3014 {
+public class WordPushes {
     public static void main(String[] args){
         String word ="abcde";
         System.out.println(minimumPushes(word));
