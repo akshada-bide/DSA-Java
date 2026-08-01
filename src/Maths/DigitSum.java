@@ -1,6 +1,6 @@
 package Maths;
 
-//LeetCode 2544: Alternating digit sum
+//LeetCode 2544 : Alternating digit sum
 public class DigitSum {
     public static void main(String[] args){
         int n = 521;
