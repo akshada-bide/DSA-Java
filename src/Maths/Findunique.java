@@ -1,7 +1,7 @@
 package Maths;
 
 //num is occuring twice ,find the unique no
-public class Findunique {
+public class Findunique { 
     public static void main(String[] args){
         int[] arr = {2,3,3,4,2,6,4};
         System.out.println(ans(arr));
