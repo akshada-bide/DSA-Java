@@ -8,13 +8,13 @@ public class FindMinMax {
         if(arr.length==0){
             return-1;
         }
-        int ans = arr[0];
+        int ans1 = arr[0];
         for(int i=1; i<arr.length;i++){
-            if(arr[i]<ans){
-                ans = arr[i];
+            if(arr[i]<ans1){
+                ans1 = arr[i];
             }
         }
-        return ans;
+        return ans1;
     }
     static int max(int[] arr){
         int ans =arr[0];
@@ -25,4 +25,5 @@ public class FindMinMax {
         }
         return ans;
     }
+
 }
