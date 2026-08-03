@@ -10,7 +10,7 @@ public class Comparator {
         String b1 = new String("Kunal");
 
         System.out.println(a == b); //comparator to compare object
-        System.out.println(a1.charAt(2));
+        System.out.println(a1.charAt(2)); // n
         System.out.println(a1.equals(b1)); //method to compare value
 
     }

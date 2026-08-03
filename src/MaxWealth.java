@@ -6,7 +6,6 @@ public class MaxWealth {
         };
         System.out.println(maximumWealth(accounts));
 
-
     }
     static int maximumWealth(int[][] accounts){
         //person = row & account = col

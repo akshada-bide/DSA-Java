@@ -16,6 +16,7 @@ public class LengthOfLastWord {
                     return count;
                 }
             }
-        }    return count;
+        }   
+        return count;
     }
 }
