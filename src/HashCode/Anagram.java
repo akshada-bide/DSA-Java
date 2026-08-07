@@ -10,7 +10,7 @@ public class Anagram {
     }
     static boolean isAnagram(String s, String t){
         if(s.length() != t.length()){
-            return false;
+            return false; 
         }
         HashMap<Character, Integer> map = new HashMap<>();
         for(int i=0; i<s.length(); i++){
