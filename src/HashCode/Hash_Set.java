@@ -9,7 +9,7 @@ public class Hash_Set {
         set.add(66);
         set.add(99);
         set.add(88);
-        set.add(11);
+        set.add(11); 
         System.out.println(set); //[33,66,99,88,11]
 
         //contains()
