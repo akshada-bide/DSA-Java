@@ -12,6 +12,5 @@ public class LeetCode3014 {
             ans += (i/8) + 1;
         }
         return ans;
-
     }
 }
