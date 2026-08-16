@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-//leetcode : 1920
+//leetcode 1920: Build Array from Permutation
 public class BuildArray {
     public static void main(String[] args){
         int[] nums = {0, 2, 1, 5, 3, 4};
