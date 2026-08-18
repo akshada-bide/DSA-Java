@@ -11,13 +11,12 @@ public class ElementArray {
         int max = nums[0];
         int max2 = nums[0];
 
-        for(int i=0; i<nums.length;i++){
-            if(nums[i] > max){
+        for (int num : nums) {
+            if (num > max) {
                 max2 = max;
-                max = nums[i];
-            }
-             else if(nums[i] > max2){
-                max2 = nums[i];
+                max = num;
+            } else if (num > max2) {
+                max2 = num;
             }
         }
         //(nums[i]-1)*(nums[j]-1)
