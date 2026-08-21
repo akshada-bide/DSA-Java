@@ -1,6 +1,8 @@
+package Maths;
+
 import java.util.Arrays;
 
-//Leetcode: 1480
+//Leetcode 1480 : Running sum of 1d array
 public class runningSum {
     public static void main(String[] args){
         int[] nums = {1, 2, 3, 4};
