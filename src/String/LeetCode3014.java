@@ -11,6 +11,6 @@ public class LeetCode3014 {
         for(int i=0; i<word.length(); i++){
             ans += (i/8) + 1;
         }
-        return ans;
+        return ans; 
     }
 }
