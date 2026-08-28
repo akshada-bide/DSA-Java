@@ -34,7 +34,7 @@ public class EvenDigits {
         while (num > 0) {
             count++;
             num = num / 10;
-        }
+        } 
      return count;
     }
 }
