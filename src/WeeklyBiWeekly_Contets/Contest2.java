@@ -7,8 +7,8 @@ public class Contest2 {
         int[] prices = {10,30,21};
         int[] discounts = {50,60};
         System.out.println(minPrice(prices, discounts));
-
     }
+    
     static double minPrice(int[] prices, int[] discounts) {
         Arrays.sort(prices);
         int i = prices.length - 1;
