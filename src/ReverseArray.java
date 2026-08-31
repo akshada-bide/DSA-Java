@@ -19,6 +19,7 @@ public class ReverseArray {
             start++;
             end--;
         }
+        //for-each loop
 //        for(int num: arr){
 //            System.out.print(num+ " ");
 //        }
