@@ -4,7 +4,7 @@ public class booleanEx {
         int target = 5;
         boolean ans = LinearSearch(arr,target);
         System.out.println(ans);
-    } 
+    }  
     static boolean LinearSearch(int[] arr, int target){
         if(arr.length == 0){
             return false;
