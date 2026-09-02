@@ -1,3 +1,5 @@
+package Maths;
+
 import java.util.Arrays;
 //LeetCode: 66
 public class PlusOne {
