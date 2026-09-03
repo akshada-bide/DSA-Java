@@ -1,6 +1,6 @@
 package Maths;
 
-//Leetcode Contest 516-2: Find all number disappeared in array II
+//Leetcode Contest 516(2): Find all number disappeared in array II
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
