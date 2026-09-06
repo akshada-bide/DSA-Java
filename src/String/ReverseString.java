@@ -1,12 +1,11 @@
 package String;
-
 import java.util.Arrays;
 
 public class ReverseString {
     public static void main(String[] args){
         String s = "Hello World";
         isReverse(s);
-//        System.out.println((s));
+//      System.out.println((s));
 
     }
     //to reverse the word
