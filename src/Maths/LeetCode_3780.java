@@ -1,7 +1,7 @@
 package Maths;
 
-//Leetcode 3780: Count Commas in Range
-public class LeetCode_3780 {
+//Leetcode 3870: Count Commas in Range
+public class LeetCode_3870 {
     public static void main(String[] args){
         int n = 1002;
         System.out.println(countCommas(n));
