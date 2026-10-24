@@ -18,8 +18,8 @@ public class Contest4 {
                 }
 
         }
-        int diff = peak - valley;
-        return diff;
+
+        return peak - valley;
     }
 
 }
